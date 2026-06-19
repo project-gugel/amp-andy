@@ -1,0 +1,13 @@
+{
+  "name": "andypemberton-amp",
+  "version": "1.0.0",
+  "description": "AMP static website for andypemberton.com",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
